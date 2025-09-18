@@ -1,0 +1,11 @@
+# پوشه عکس و ویدئو
+public/assets/images/
+public/assets/videos/
+
+# سیستم و کش macOS
+.DS_Store
+
+# پوشه‌های خروجی و کتابخانه‌ها
+node_modules/
+build/
+dist/
