@@ -1,6 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![NDMK Screenshot](./public/assets/readme_image/ndmkshot.png)
 
-## Getting Started
+## NDMK Agency Website 🚀
+This project is a bespoke digital experience crafted for NDMK Agency in London.
+What started as an Angular build evolved into a modern React + Next.js application with Tailwind CSS styling, delivering a sleek, fast, and scalable frontend.
+Beyond just code, the focus was on UI/UX design excellence — every pixel, animation, and interaction was carefully designed to reflect the agency’s bold identity. The result? A website that not only looks stunning but also performs flawlessly across all devices. 🎨✨
+
+## 🚀 Demo
+Live demo available here: [https://www.ndmkagency.com]
+
+## Features ✨
+* Fully responsive design optimized for all devices 📱💻
+* Smooth and interactive animations using CSS, Tailwind, and JavaScript
+* Next.js for server-side rendering & SEO ⚡
+* Tailwind CSS for utility-first, modern styling 🎨
+* Optimized images and assets for fast loading ⏱️
+* Modern, brand-aligned UI/UX design 🎨
+
+## Tech Stack 🛠️
+* React – Component-based UI ⚛️
+* Next.js – Server-side rendering & SEO ⚡
+* Tailwind CSS – Utility-first responsive styling 🎨
+
+
+## 💻Getting Started
 
 First, run the development server:
 
@@ -18,14 +40,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
