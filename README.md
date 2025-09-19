@@ -1,6 +1,7 @@
-![NDMK Screenshot](./public/assets/readme_image/ndmkshot.png)
 
 ## NDMK Agency Website 🚀
+![NDMK Screenshot](./public/assets/readme_image/ndmkshot.png)
+---
 This project is a bespoke digital experience crafted for NDMK Agency in London.
 What started as an Angular build evolved into a modern React + Next.js application with Tailwind CSS styling, delivering a sleek, fast, and scalable frontend.
 Beyond just code, the focus was on UI/UX design excellence — every pixel, animation, and interaction was carefully designed to reflect the agency’s bold identity. The result? A website that not only looks stunning but also performs flawlessly across all devices. 🎨✨
